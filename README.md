@@ -39,6 +39,3 @@ You will need the following to work with the examples in this book:
 * [Mastering Apache Spark](https://www.packtpub.com/big-data-and-business-intelligence/mastering-apache-spark?utm_source=github&utm_medium=repository&utm_campaign=9781783987146)
 
 * [Hadoop 2.x Administration Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/hadoop-2x-administration-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781787126732)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
